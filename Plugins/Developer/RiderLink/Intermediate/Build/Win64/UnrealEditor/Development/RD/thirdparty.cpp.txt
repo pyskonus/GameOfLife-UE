@@ -1,0 +1,1 @@
+C:\Users\pyskonus\Documents\Unreal Projects\GameOfLife\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
